@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SithMasterBDSM
+- 👋 Hi, I’m @OscarChavarro
 - 👀 I’m interested in Computer Graphics
 - 🌱 I’m currently learning VueJS and other technologies related to delivery apps
 - 📫 How to reach me: Direct message me at https://www.linkedin.com/in/oscar-chavarro-63a75150/
